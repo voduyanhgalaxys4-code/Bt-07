@@ -1,7 +1,7 @@
 ## 1. Link ứng dụng Expo
 
 - **Tên bài nộp:** BookingApp
-- **Link Expo Snack:[** Dán link ứng dụng BookingApp tại đây.](https://snack.expo.dev/@voduyanh/bookingapp)
+- **Link Expo Snack:** [BookingApp](https://snack.expo.dev/@voduyanh/bookingapp)
 
 ## 2. Các dòng code và hình ảnh giao diện
 
